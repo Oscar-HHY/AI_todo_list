@@ -1,0 +1,21 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Local database
+todo.db
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
